@@ -1,5 +1,5 @@
 # Cryptovoting
-The project was made during Yomari Code Camp 2018 and it won the 3rd prize.
+The team project was made during Yomari Code Camp 2018 under the category "Block Chain Technology". We won the 3rd prize for the project.
 
 ## About
 The decentralized voting application built on Ethereum. Data storage, authentication and other backend stuffs are written as `Smart Contract`
