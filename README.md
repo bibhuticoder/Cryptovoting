@@ -14,6 +14,15 @@ on Ethereum. Web3 is used to connect the Ehererum test network with Vuejs Webapp
 - Web3 : to connect RemixIDE to Webapp
 - VueJs : frontend framework
 
+## To run it locally
+- open `cryptovoting.sol` in Remix IDE (https://remix.ethereum.org)
+- copy `address` and `ABI` in src/main.js
+```
+  var Contract = web3.eth.contract(ABI);
+  Vue.prototype.$contract = Contract.at('address');
+```
+- inside src folder run `npm install && npm run dev`
+
 ## Team Members
 - Roshan Chapagain
 - Rohan Shrestha
