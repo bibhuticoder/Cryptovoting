@@ -22,6 +22,7 @@ on Ethereum. Web3 is used to connect the Ehererum test network with Vuejs Webapp
   Vue.prototype.$contract = Contract.at('address');
 ```
 - inside src folder run `npm install && npm run dev`
+- Generate and try QR codes of string '1212' & '3434' to cast vote.
 
 ## Team Members
 - Roshan Chapagain
